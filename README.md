@@ -19,7 +19,7 @@ This project uses **NLP and Transformers** to automatically screen resumes and m
 ## Example Result
 
  Top Matching Jobs for Your Resume:
-
+--------------------------------------------------------------------------------------------------
  Lionbridge Internet Assessor
    Match Score: 45.73%  |  Level: Entry
    Description: The team at Lionbridge Technologies with solution
@@ -33,4 +33,5 @@ The ...
    Description: The team at Lionbridge Technologies is currently
 recruiting self-employed workers who are based in Armenia to join its
 team of Internet Assessor. The main aim of the work is to improve a
+
 search engines results for all web users worldwide. The work...
